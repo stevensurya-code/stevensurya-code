@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevensurya-code
 - 👀 I’m interested in Programming with Java, PHP, Phyton, and i also interested in Analytics like Business, System, Data Analytics
-- 🌱 I’m currently learning React, Native, Data Science,
+- 🌱 I’m currently learning Java Advanced, PHP Advanced, Phyton Advanced,React, Native, Data Science,
 - 💞️ I’m looking to collaborate on Programming because i dont really know much about analytics so now i focus on Programming
 - 📫 How to reach me
 
